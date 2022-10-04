@@ -64,4 +64,8 @@ data = data.drop([ "sex","smoker","day","time"], axis=1)
 
 outliers.outliers(data)
 
+# other
+
+help(outliers.outliers)
+
 """
