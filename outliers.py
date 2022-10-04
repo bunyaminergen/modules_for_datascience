@@ -12,9 +12,8 @@ class outliers:
     
     @time_cal
     def outliers(data: pd.DataFrame) -> pd.DataFrame:
-
         
-      
+        
         index = []
         Q1    = []
         Q3    = []
