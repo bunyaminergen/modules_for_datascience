@@ -4,7 +4,7 @@ This function finds outliers and returns them as pandas dataframes.
 
 """
 
-import decortors
+import decorators
 
 class outliers:
     
