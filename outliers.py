@@ -1,3 +1,9 @@
+"""
+
+This function finds outliers and returns them as pandas dataframes.
+
+"""
+
 class outliers:
     
     @time_cal
