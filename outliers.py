@@ -8,10 +8,12 @@ import decorators
 
 class outliers:
     
+    import pandas as pd
+    
     @time_cal
     def outliers(data: pd.DataFrame) -> pd.DataFrame:
 
-        import pandas as pd
+        
       
         index = []
         Q1    = []
