@@ -4,6 +4,8 @@ This function finds outliers and returns them as pandas dataframes.
 
 """
 
+import decortors
+
 class outliers:
     
     @time_cal
