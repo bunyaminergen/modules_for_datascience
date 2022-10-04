@@ -1,6 +1,6 @@
 """
 
-This function finds outliers and returns them as pandas dataframes.
+This function finds outliers and returns them as a pandas dataframe.
 
 """
 
